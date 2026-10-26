@@ -1,0 +1,1 @@
+{"r":{"$regularExpression":{"pattern":"abc[0-9]+","options":"i"}}}

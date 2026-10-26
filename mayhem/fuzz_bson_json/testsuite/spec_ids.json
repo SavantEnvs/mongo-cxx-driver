@@ -1,0 +1,1 @@
+{"_id":1,"name":"Alice","tags":["a","b"],"profile":{"age":30,"email":"a@example.com"},"balance":{"$numberDecimal":"100.25"}}

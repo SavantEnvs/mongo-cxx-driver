@@ -1,0 +1,1 @@
+mongodb://localhost/?readPreference=secondaryPreferred&readPreferenceTags=dc:ny,rack:1&readPreferenceTags=&maxStalenessSeconds=120

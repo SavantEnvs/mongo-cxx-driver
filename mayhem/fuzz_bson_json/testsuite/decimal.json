@@ -1,0 +1,1 @@
+{"a":{"$numberDecimal":"1.234567890123456789"},"b":{"$numberDecimal":"-Infinity"},"c":{"$numberDecimal":"NaN"},"d":{"$numberDecimal":"1E+6144"}}

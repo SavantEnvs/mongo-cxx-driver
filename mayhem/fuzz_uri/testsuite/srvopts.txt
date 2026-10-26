@@ -1,0 +1,1 @@
+mongodb://example.com/?srvMaxHosts=2&srvServiceName=customname

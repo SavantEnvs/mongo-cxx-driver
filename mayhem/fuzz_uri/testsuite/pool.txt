@@ -1,0 +1,1 @@
+mongodb://localhost/?maxPoolSize=10&minPoolSize=1&maxIdleTimeMS=60000&waitQueueTimeoutMS=5000

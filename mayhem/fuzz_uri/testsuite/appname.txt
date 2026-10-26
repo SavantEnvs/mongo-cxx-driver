@@ -1,0 +1,1 @@
+mongodb://localhost/?appname=my%20app&directConnection=true&loadBalanced=false

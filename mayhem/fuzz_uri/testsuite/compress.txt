@@ -1,0 +1,1 @@
+mongodb://localhost/?compressors=snappy,zlib,zstd&zlibCompressionLevel=6

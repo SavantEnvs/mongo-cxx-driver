@@ -1,0 +1,9 @@
+project: savantenvs/mongo-cxx-driver
+target: fuzz_bson_types
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_bson_types/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_bson_types
+    libfuzzer: true
+    timeout: 10

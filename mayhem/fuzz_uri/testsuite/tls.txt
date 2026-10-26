@@ -1,0 +1,1 @@
+mongodb://localhost/?tls=true&tlsAllowInvalidCertificates=true&tlsInsecure=false&tlsCAFile=ca.pem

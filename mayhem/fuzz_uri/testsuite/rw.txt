@@ -1,0 +1,1 @@
+mongodb://localhost/?w=majority&wtimeoutMS=1000&journal=true&readConcernLevel=majority&retryWrites=true&retryReads=false

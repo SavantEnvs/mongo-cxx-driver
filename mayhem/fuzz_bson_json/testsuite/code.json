@@ -1,0 +1,1 @@
+{"c":{"$code":"function(){return 1}"},"cs":{"$code":"x+y","$scope":{"x":1,"y":2}},"sym":{"$symbol":"abc"}}

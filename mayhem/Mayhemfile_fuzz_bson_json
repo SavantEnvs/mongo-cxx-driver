@@ -1,0 +1,10 @@
+project: savantenvs/mongo-cxx-driver
+target: fuzz_bson_json
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_bson_json/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_bson_json
+    libfuzzer: true
+    timeout: 10
+    dictionary: /mayhem/mayhem/fuzz_bson_json/fuzz_bson_json.dict
